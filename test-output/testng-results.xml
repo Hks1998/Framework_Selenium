@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[===DB CONNECTION===]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser has Launched]]>
+    </line>
+    <line>
+      <![CDATA[Launch Browser]]>
+    </line>
+    <line>
+      <![CDATA[User has successfully logged in to app]]>
+    </line>
+    <line>
+      <![CDATA[Contact is created successfully and test case is passed]]>
+    </line>
+    <line>
+      <![CDATA[User has logged out from application successfully]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser]]>
+    </line>
+    <line>
+      <![CDATA[===DB DISCONNECTION===]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-08-14T18:47:11 IST" name="Default suite" finished-at="2024-08-14T18:47:22 IST" duration-ms="10419">
+    <groups>
+    </groups>
+    <test started-at="2024-08-14T18:47:11 IST" name="Default test" finished-at="2024-08-14T18:47:22 IST" duration-ms="10419">
+      <class name="TestClasses.CreateContactTest">
+        <test-method is-config="true" signature="bsconfig()[pri:0, instance:TestClasses.CreateContactTest@5884a914]" started-at="2024-08-14T18:47:11 IST" name="bsconfig" finished-at="2024-08-14T18:47:11 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===DB CONNECTION===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bsconfig -->
+        <test-method is-config="true" signature="bcconfig()[pri:0, instance:TestClasses.CreateContactTest@5884a914]" started-at="2024-08-14T18:47:11 IST" name="bcconfig" finished-at="2024-08-14T18:47:14 IST" duration-ms="2117" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser has Launched]]>
+            </line>
+            <line>
+              <![CDATA[Launch Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bcconfig -->
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:TestClasses.CreateContactTest@5884a914]" started-at="2024-08-14T18:47:14 IST" name="loginToApp" finished-at="2024-08-14T18:47:15 IST" duration-ms="1594" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[User has successfully logged in to app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method signature="CreateContact()[pri:0, instance:TestClasses.CreateContactTest@5884a914]" started-at="2024-08-14T18:47:15 IST" name="CreateContact" finished-at="2024-08-14T18:47:21 IST" duration-ms="5538" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Contact is created successfully and test case is passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateContact -->
+        <test-method is-config="true" signature="logoutFromApp()[pri:0, instance:TestClasses.CreateContactTest@5884a914]" started-at="2024-08-14T18:47:21 IST" name="logoutFromApp" finished-at="2024-08-14T18:47:22 IST" duration-ms="916" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[User has logged out from application successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutFromApp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClasses.CreateContactTest@5884a914]" started-at="2024-08-14T18:47:22 IST" name="tearDown" finished-at="2024-08-14T18:47:22 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="asconfig()[pri:0, instance:TestClasses.CreateContactTest@5884a914]" started-at="2024-08-14T18:47:22 IST" name="asconfig" finished-at="2024-08-14T18:47:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===DB DISCONNECTION===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- asconfig -->
+      </class> <!-- TestClasses.CreateContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
