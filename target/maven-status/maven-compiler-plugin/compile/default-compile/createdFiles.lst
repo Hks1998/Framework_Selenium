@@ -1,0 +1,16 @@
+com\vtiger\objectrepos\CreateNewOrganizationPage.class
+com\vtiger\genericUtilities\ExcelFileUtility.class
+com\vtiger\genericUtilities\WebdriverUtility.class
+com\vtiger\genericUtilities\JavaUtility.class
+com\vtiger\objectrepos\ContactsPage.class
+com\vtiger\genericUtilities\propertyFileUtility.class
+com\vtiger\objectrepos\CreateNewContactPage.class
+com\vtiger\genericUtilities\IconstantPaths.class
+com\vtiger\genericUtilities\ExtentReportNG.class
+com\vtiger\objectrepos\HomePage.class
+com\vtiger\objectrepos\LoginPage.class
+com\vtiger\genericUtilities\Base.class
+com\vtiger\objectrepos\ContactInformationPage.class
+com\vtiger\objectrepos\OrganizationInformationPage.class
+com\vtiger\objectrepos\OrganizationPage.class
+com\vtiger\genericUtilities\Listeners.class
