@@ -44,19 +44,19 @@
       <![CDATA[===DB DISCONNECTION===]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-09-04T20:02:42 IST" name="Suite" finished-at="2024-09-04T20:03:11 IST" duration-ms="29306">
+  <suite started-at="2024-09-12T09:06:10 IST" name="Suite" finished-at="2024-09-12T09:06:54 IST" duration-ms="43795">
     <groups>
     </groups>
-    <test started-at="2024-09-04T20:02:42 IST" name="Test" finished-at="2024-09-04T20:03:11 IST" duration-ms="29306">
+    <test started-at="2024-09-12T09:06:10 IST" name="Test" finished-at="2024-09-12T09:06:54 IST" duration-ms="43795">
       <class name="TestClasses.CreateContactTest">
-        <test-method is-config="true" signature="bsconfig()[pri:0, instance:TestClasses.CreateContactTest@2a62b5bc]" started-at="2024-09-04T20:02:42 IST" name="bsconfig" finished-at="2024-09-04T20:02:42 IST" duration-ms="22" status="PASS">
+        <test-method is-config="true" signature="bsconfig()[pri:0, instance:TestClasses.CreateContactTest@1fde5d22]" started-at="2024-09-12T09:06:10 IST" name="bsconfig" finished-at="2024-09-12T09:06:10 IST" duration-ms="16" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[===DB CONNECTION===]]>
             </line>
           </reporter-output>
         </test-method> <!-- bsconfig -->
-        <test-method is-config="true" signature="bcconfig()[pri:0, instance:TestClasses.CreateContactTest@2a62b5bc]" started-at="2024-09-04T20:02:42 IST" name="bcconfig" finished-at="2024-09-04T20:02:46 IST" duration-ms="4041" status="PASS">
+        <test-method is-config="true" signature="bcconfig()[pri:0, instance:TestClasses.CreateContactTest@1fde5d22]" started-at="2024-09-12T09:06:10 IST" name="bcconfig" finished-at="2024-09-12T09:06:13 IST" duration-ms="3417" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Chrome browser has Launched]]>
@@ -66,35 +66,35 @@
             </line>
           </reporter-output>
         </test-method> <!-- bcconfig -->
-        <test-method is-config="true" signature="loginToApp()[pri:0, instance:TestClasses.CreateContactTest@2a62b5bc]" started-at="2024-09-04T20:02:46 IST" name="loginToApp" finished-at="2024-09-04T20:02:48 IST" duration-ms="2353" status="PASS">
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:TestClasses.CreateContactTest@1fde5d22]" started-at="2024-09-12T09:06:13 IST" name="loginToApp" finished-at="2024-09-12T09:06:18 IST" duration-ms="4202" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[User has successfully logged in to app]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginToApp -->
-        <test-method signature="CreateContact()[pri:0, instance:TestClasses.CreateContactTest@2a62b5bc]" started-at="2024-09-04T20:02:49 IST" name="CreateContact" finished-at="2024-09-04T20:02:57 IST" duration-ms="8369" status="PASS">
+        <test-method signature="CreateContact()[pri:0, instance:TestClasses.CreateContactTest@1fde5d22]" started-at="2024-09-12T09:06:18 IST" name="CreateContact" finished-at="2024-09-12T09:06:30 IST" duration-ms="12797" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Contact is created successfully and test case is passed]]>
             </line>
           </reporter-output>
         </test-method> <!-- CreateContact -->
-        <test-method is-config="true" signature="logoutFromApp()[pri:0, instance:TestClasses.CreateContactTest@2a62b5bc]" started-at="2024-09-04T20:02:57 IST" name="logoutFromApp" finished-at="2024-09-04T20:02:58 IST" duration-ms="1236" status="PASS">
+        <test-method is-config="true" signature="logoutFromApp()[pri:0, instance:TestClasses.CreateContactTest@1fde5d22]" started-at="2024-09-12T09:06:30 IST" name="logoutFromApp" finished-at="2024-09-12T09:06:33 IST" duration-ms="2161" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[User has logged out from application successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- logoutFromApp -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClasses.CreateContactTest@2a62b5bc]" started-at="2024-09-04T20:02:58 IST" name="tearDown" finished-at="2024-09-04T20:02:58 IST" duration-ms="159" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClasses.CreateContactTest@1fde5d22]" started-at="2024-09-12T09:06:33 IST" name="tearDown" finished-at="2024-09-12T09:06:33 IST" duration-ms="202" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Close Browser]]>
             </line>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="asconfig()[pri:0, instance:TestClasses.CreateContactTest@2a62b5bc]" started-at="2024-09-04T20:03:12 IST" name="asconfig" finished-at="2024-09-04T20:03:12 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="asconfig()[pri:0, instance:TestClasses.CreateContactTest@1fde5d22]" started-at="2024-09-12T09:06:55 IST" name="asconfig" finished-at="2024-09-12T09:06:55 IST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[===DB DISCONNECTION===]]>
@@ -103,7 +103,7 @@
         </test-method> <!-- asconfig -->
       </class> <!-- TestClasses.CreateContactTest -->
       <class name="TestClasses.CreateOrganizationTest">
-        <test-method is-config="true" signature="bcconfig()[pri:0, instance:TestClasses.CreateOrganizationTest@5dcb4f5f]" started-at="2024-09-04T20:02:58 IST" name="bcconfig" finished-at="2024-09-04T20:03:00 IST" duration-ms="1826" status="PASS">
+        <test-method is-config="true" signature="bcconfig()[pri:0, instance:TestClasses.CreateOrganizationTest@561868a0]" started-at="2024-09-12T09:06:33 IST" name="bcconfig" finished-at="2024-09-12T09:06:35 IST" duration-ms="2008" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Chrome browser has Launched]]>
@@ -113,28 +113,28 @@
             </line>
           </reporter-output>
         </test-method> <!-- bcconfig -->
-        <test-method is-config="true" signature="loginToApp()[pri:0, instance:TestClasses.CreateOrganizationTest@5dcb4f5f]" started-at="2024-09-04T20:03:00 IST" name="loginToApp" finished-at="2024-09-04T20:03:02 IST" duration-ms="2075" status="PASS">
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:TestClasses.CreateOrganizationTest@561868a0]" started-at="2024-09-12T09:06:35 IST" name="loginToApp" finished-at="2024-09-12T09:06:39 IST" duration-ms="3923" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[User has successfully logged in to app]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginToApp -->
-        <test-method signature="createOrg()[pri:0, instance:TestClasses.CreateOrganizationTest@5dcb4f5f]" started-at="2024-09-04T20:03:02 IST" name="createOrg" finished-at="2024-09-04T20:03:10 IST" duration-ms="7592" status="PASS">
+        <test-method signature="createOrg()[pri:0, instance:TestClasses.CreateOrganizationTest@561868a0]" started-at="2024-09-12T09:06:39 IST" name="createOrg" finished-at="2024-09-12T09:06:51 IST" duration-ms="12303" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Organization is created successfully and test case is passed]]>
             </line>
           </reporter-output>
         </test-method> <!-- createOrg -->
-        <test-method is-config="true" signature="logoutFromApp()[pri:0, instance:TestClasses.CreateOrganizationTest@5dcb4f5f]" started-at="2024-09-04T20:03:10 IST" name="logoutFromApp" finished-at="2024-09-04T20:03:11 IST" duration-ms="1367" status="PASS">
+        <test-method is-config="true" signature="logoutFromApp()[pri:0, instance:TestClasses.CreateOrganizationTest@561868a0]" started-at="2024-09-12T09:06:51 IST" name="logoutFromApp" finished-at="2024-09-12T09:06:53 IST" duration-ms="2267" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[User has logged out from application successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- logoutFromApp -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClasses.CreateOrganizationTest@5dcb4f5f]" started-at="2024-09-04T20:03:11 IST" name="tearDown" finished-at="2024-09-04T20:03:11 IST" duration-ms="115" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClasses.CreateOrganizationTest@561868a0]" started-at="2024-09-12T09:06:53 IST" name="tearDown" finished-at="2024-09-12T09:06:54 IST" duration-ms="315" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Close Browser]]>
