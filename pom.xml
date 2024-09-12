@@ -6,6 +6,7 @@
 	<groupId>Framework_sel3</groupId>
 	<artifactId>Framework_sel3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<dependencies>
 		<!--
 		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
