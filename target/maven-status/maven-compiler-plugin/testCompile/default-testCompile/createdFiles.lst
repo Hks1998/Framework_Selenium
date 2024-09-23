@@ -1,2 +1,2 @@
-TestClasses\CreateContactTest.class
-TestClasses\CreateOrganizationTest.class
+TestClasses/CreateContactTest.class
+TestClasses/CreateOrganizationTest.class
